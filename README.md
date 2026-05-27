@@ -25,12 +25,5 @@ built a Network Intrusion Detection System with 99.89% accuracy on 2.15M records
 
 ---
 
-## 📂 Projects
-- 🛡️ **Network Intrusion Detection System** — ML-based cyberattack classifier
-- 🔒 **Secure Chat Application** — End-to-end encrypted desktop chat app
-- 🌿 **AQI Monitoring System** — IoT-based air quality monitor using ESP32
-
----
-
 ## 📫 Reach Me
 📧 khushbudhiman95@email.com
