@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Khushbu Dhiman 👋
 
-<!--
-**khushbu-dhiman/khushbu-dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year ECE student at ABV-GIET Shimla  
+🔬 AI/ML Intern at C-DAC Mohali  
+    Mohali, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm passionate about Data Science and Machine Learning.
+Currently working on real-world cybersecurity problems using ML —
+built a Network Intrusion Detection System with 99.89% accuracy on 2.15M records.
+
+---
+
+## 🌱 Currently Learning
+- Large Language Models (LLMs)
+- Transformer Architecture
+- Small Language Models (SLMs)
+
+---
+
+## 🛠️ Tech Stack
+`Python` `Scikit-learn` `XGBoost` `Flask` `MySQL` `Pandas` `NumPy` `Matplotlib` `ESP32`
+
+---
+
+## 📂 Projects
+- 🛡️ **Network Intrusion Detection System** — ML-based cyberattack classifier
+- 🔒 **Secure Chat Application** — End-to-end encrypted desktop chat app
+- 🌿 **AQI Monitoring System** — IoT-based air quality monitor using ESP32
+
+---
+
+## 📫 Reach Me
+📧 khushbudhiman95@email.com
